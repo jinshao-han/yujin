@@ -12,7 +12,7 @@ export default defineConfig({
   base: '/yujin/',
   title: 'Frontend',
   description: 'composition api form validator for vue',
-  appearance: true,
+  // appearance: false,
   lastUpdated: true,
 
   markdown: {
