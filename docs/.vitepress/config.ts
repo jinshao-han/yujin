@@ -9,7 +9,7 @@ const r = (p: string) => resolve(__dirname, p)
 // generateFileSidebar(r('../useForm'))
 
 export default defineConfig({
-  base: '',
+  base: './',
   title: 'Frontend',
   description: 'composition api form validator for vue',
   appearance: true,
