@@ -50,16 +50,11 @@ export default defineConfig({
       items: [{ text: '简体中文', link: 'https://netlify.app' }]
     },
     algolia: {
-      apiKey: 'aea12a0a4281c855b5d23789e868f378',
-      indexName: 'interview-questions-record',
+      apiKey: 'a2f6792dabedc283904eea5a88222fbf',
+      indexName: 'yujin',
       // 如果 Algolia 没有为你提供 `appId` ，使用 `BH4D9OD16A` 或者移除该配置项
-      appId: 'XQYLP2L9WC'
+      appId: 'UOJ67VEO8S'
     }
   }
-  // plugins: [
-  //   SearchPlugin({
-  //     encode: false,
-  //     tokenize: 'full' // 解决汉字不能多个输入
-  //   })
-  // ]
+
 })
