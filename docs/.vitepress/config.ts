@@ -36,12 +36,12 @@ export default defineConfig({
       // }
       ...defaultSidebar.slice(1, 6)
     ],
-    socialLinks: [{ icon: 'github', link: 'https://github.com/' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/jinshao-han/yujin.git' }],
     footer: {
       copyright: 'Copyright © 2023-present yujin'
     },
     editLink: {
-      pattern: 'https://github.com/',
+      pattern: 'https://github.com/jinshao-han/yujin.git',
       text: 'Edit this page on Gitlab'
     },
     lastUpdatedText: 'Last Updated',
