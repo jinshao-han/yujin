@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as p}from"./app.5146eedb.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/Vue的性能优化.md","lastUpdated":null}'),l={name:"vue/Vue的性能优化.md"},e=p("",3),o=[e];function c(r,t,y,i,F,B){return a(),n("div",null,o)}const u=s(l,[["render",c]]);export{A as __pageData,u as default};
