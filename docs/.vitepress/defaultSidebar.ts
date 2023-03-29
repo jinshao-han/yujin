@@ -109,6 +109,10 @@ export const defaultSidebar: DefaultTheme.Sidebar = [
       {
         text: '鉴权-前端路由 VS 鉴权-动态路由',
         link: '/algorithm/鉴权-前端路由 VS 鉴权-动态路由'
+      },
+      {
+        text: 'AST',
+        link: '/algorithm/AST'
       }
     ]
   },
@@ -127,6 +131,10 @@ export const defaultSidebar: DefaultTheme.Sidebar = [
       {
         text: '遇到的问题',
         link: '/interview/遇到的问题'
+      },
+      {
+        text: 'Flex 弹性布局',
+        link: '/interview/Flex 弹性布局'
       }
     ]
   },
